@@ -24,9 +24,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/batuhandavuts/batuhandavuts/output/snake.svg" alt="Snake animation" />
-
-###
