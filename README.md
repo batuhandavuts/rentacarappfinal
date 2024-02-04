@@ -24,3 +24,7 @@
 </div>
 
 ###
+
+Teammates
+ - [@gokhanulaskin](https://github.com/gokhanulaskin)
+ - [@MeliksahCaliskan52](https://github.com/MeliksahCaliskan52)
