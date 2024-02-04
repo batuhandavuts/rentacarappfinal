@@ -31,7 +31,7 @@
 ###
 
 Ders:
- - [Mobil Programlamaya Giriş]
+ - [ Mobil Programlamaya Giriş ]
 
 
 Teammates
