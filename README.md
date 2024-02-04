@@ -26,5 +26,9 @@
 ###
 
 Teammates
- - [@gokhanulaskin](https://github.com/gokhanulaskin)
+ - [@gokhanulaskin](https://github.com/gokhanulaskin) -
  - [@MeliksahCaliskan52](https://github.com/MeliksahCaliskan52)
+ - [@batuhandavuts](https://github.com/batuhandavuts)
+   
+Supervisor
+ - [@keyvanarasteh](https://github.com/keyvanarasteh)
